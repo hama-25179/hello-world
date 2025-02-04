@@ -16,7 +16,7 @@ build:
 # Information about publishing process (URI, cert, etc)
 publish:
     url: aoscloud.io
-    service_uid: your-service-uuid-here
+    service_uid: be55f621-efb9-4947-8af1-393a36ab7f38
     tls_pkcs12: aos-user-sp.p12
     version: "1.0"
 
