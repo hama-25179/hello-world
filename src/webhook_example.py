@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 #   and copy from "Your unique URL (Please copy it from here, not from the address bar!)" field
 #   and paste server link to HTTP_REQUEST_RECEIVER_URL
 
-HTTP_REQUEST_RECEIVER_URL = "https://webhook.site/your-uniq-guid-here"
+HTTP_REQUEST_RECEIVER_URL = "https://webhook.site/2b3c48a8-7db0-4451-a956-5badc556ce73"
 
 DATA_SENDING_DELAY = 2
 WAIT_TIMEOUT = 5
